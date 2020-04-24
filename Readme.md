@@ -57,6 +57,7 @@
 - https://www.baeldung.com/reactor-core
 - http://www.reactive-streams.org/
 - https://www.reactivemanifesto.org/
+- Reactor, Flux, Mono https://www.youtube.com/watch?v=sNgTTcG-fEU
 
 ### out of scope, but still relavent, reactive programming in C
 
