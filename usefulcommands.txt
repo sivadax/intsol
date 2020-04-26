@@ -1,3 +1,6 @@
 run apache ab , concurrent request, benchmark API
 
 ab -n 1000000 -c 10 http://localhost:8081/happy
+
+curl -k -X POST -H "Authorization:Bearer ${user_access_token}" https://anypoint.mulesoft.com/secrets-manager/api/v1/organizations/{orgId}/environments/{envId}/secretGroups --data '{ "name": "test-state” }' -H "Content-Type: application/json"
+
