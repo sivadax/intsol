@@ -26,7 +26,7 @@ http://test-openid-njclabs-flights.us-e2.cloudhub.io/flights
 Authorization Bearer Token : " put the token obtained in step 1"
 
 
-Custom Connectors
+## Custom Connectors
 
 ```
 mvn org.mule.extensions:mule-extensions-archetype-maven-plugin:1.2.0:generate
