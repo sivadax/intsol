@@ -76,6 +76,90 @@
 ## Marble Digrams
 - https://medium.com/@navdeepsingh_2336/marble-diagrams-an-overview-e04462c75175
 
+Modern Microservice Architecture and Challenges
+Mastering Chaos - A Netflix Guide to Microservices
+https://youtu.be/CZ3wIuvmHeM
 
+A Crash Course on Enterprise Integration Patterns and Modern Integration Respective
+YOW! Singapore 2017 Gregor Hohpe - Enterprise Integration Patterns 2
+https://youtu.be/Yz8HXTFMqcE
+
+A perspective and comparison of different types of three tier architecture, from legacy to modern
+Four Distributed Systems Architectural Patterns by Tim Berglund
+https://youtu.be/tpspO9K28PM
+
+Connect the Dots: MuleSoft Logging and Custom Connectors
+https://youtu.be/oCLRNAId6c8
+
+Sprinting with Anypoint Runtime Fabric
+https://youtu.be/CZ3wIuvmHeM
+
+Enterprise Architecture demystifying
+YOW! 2017 Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise? #YOW
+https://youtu.be/mS0AJLqmnvQ
+
+CI/CD in Mule
+https://github.com/mulesoft-consulting/cicd-hello-world
+https://github.com/mulesoft-consulting/automated-api-promotion
+https://github.com/mulesoft-consulting/ci-cd-powershell-script
+
+Servicemesh Demo
+https://github.com/mulesoft-consulting/ServiceMeshDemo
+
+Anypoint Statistics
+Api which retrieve statistics of deployed mule apps, scheduler and anypointMQ for given org and env.
+https://github.com/mulesoft-consulting/anypoint-statistics-service
+
+Core Estimation Runtime Fabric / Cloudhub
+https://docs.mulesoft.com/runtime-fabric/1.4/deploy-resource-allocation
+https://docs.mulesoft.com/runtime-fabric/1.4/install-sys-reqs
+https://help.mulesoft.com/s/article/FAQ-on-Performance-Issue
+https://docs.mulesoft.com/runtime-fabric/1.4/runtime-fabric-limitations
+
+About Anypoint Data Gateway
+https://docs.mulesoft.com/data-gateway/
+
+Different Instance Types
+https://aws.amazon.com/ec2/instance-types/
+
+Tool used to create mule documentation
+https://docs.antora.org/antora/2.2/run-antora/#local-site-preview
+
+Kevin Jervis. Secure APIs using JWT
+https://www.youtube.com/watch?v=W7XuJg9L6Sw&feature=youtu.be
+
+Different Types of Performance Testing
+https://blogs.mulesoft.com/dev/trends-dev/integration-habits-2020/?utm_source=linkedin&utm_medium=referral
+
+Load testing: Measures the system performance as the workload (either concurrent users or transactions) increases.
+Helps you understand the application response time as staying power of an application as loads increase.
+Stress testing: Measures the system performance when the number of users or transactions are well beyond normal working parameters.
+Helps you understand what the breaking point of your application is. How many users or transactions does it take to cause your
+application to fail?
+Spike testing: A form of stress testing that measures system performance when the workload suddenly increases quickly.
+Helps you understand how your applications will perform when there is a sudden surge in activity from a user or transaction volume
+perspective.
+Endurance (soak) testing: Measures the system performance, at a normal workload, over an extended amount of time.
+Helps you ensure that the underlying systems of your application are working properly and you don’t have things like memory leaks
+occurring that could cripple and application in production.
+
+ArchiMate Webinar: An overview of the ArchiMate 3 Modelling Language
+https://www.youtube.com/watch?v=CJ9oWiUMvCU
+
+Custom API Policy in Mule
+https://docs.mulesoft.com/api-manager/2.x/custom-policy-packaging-policy
+https://docs.mulesoft.com/api-manager/2.x/custom-policy-getting-started#setting-up-a-project-with-the-archetype
+
+Exchange Maven Facade
+https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/f1e97bc6-315a-4490-82a7-23abe036327a.anypoint-platform/exchange-maven
+-facade-api-http/version/v2/pages/Getting%20Started/
+
+Mulesoft Status Links
+https://eu1-status.mulesoft.com/
+https://status.mulesoft.com/
+
+Mulesoft Incident Links
+https://status.mulesoft.com/history
+https://eu1-status.mulesoft.com/history
 
 
