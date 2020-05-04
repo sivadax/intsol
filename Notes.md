@@ -1,4 +1,4 @@
-Module 1 : 
+## Module 1 : 
 
 Requirements
 
@@ -31,4 +31,18 @@ Customer Success
   - Catalyst
   - C4E
   - Playbooks
+
+## Module 2
+
+Anypoint Platform
+
+  - Business Group
+  - Identity Management
+    - Role Based Access Control
+  - Client Management
+  - Federated Identity Management
+  - Audit Logs
+
+
+  
 
