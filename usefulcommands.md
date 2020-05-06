@@ -32,3 +32,8 @@ Authorization Bearer Token : " put the token obtained in step 1"
 mvn org.mule.extensions:mule-extensions-archetype-maven-plugin:1.2.0:generate
 ```
 
+## SSL Debugging Enable
+
+```
+-Djavax.net.debug=ssl
+```
