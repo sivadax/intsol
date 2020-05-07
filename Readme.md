@@ -76,35 +76,42 @@
 ## Marble Digrams
 - https://medium.com/@navdeepsingh_2336/marble-diagrams-an-overview-e04462c75175
 
+## Architecture
+
 Modern Microservice Architecture and Challenges
 Mastering Chaos - A Netflix Guide to Microservices
-https://youtu.be/CZ3wIuvmHeM
+- https://youtu.be/CZ3wIuvmHeM
 
 A Crash Course on Enterprise Integration Patterns and Modern Integration Respective
 YOW! Singapore 2017 Gregor Hohpe - Enterprise Integration Patterns 2
-https://youtu.be/Yz8HXTFMqcE
+- https://youtu.be/Yz8HXTFMqcE
 
 A perspective and comparison of different types of three tier architecture, from legacy to modern
 Four Distributed Systems Architectural Patterns by Tim Berglund
-https://youtu.be/tpspO9K28PM
+- https://youtu.be/tpspO9K28PM
+
+
+## Logging in Mule
 
 Connect the Dots: MuleSoft Logging and Custom Connectors
-https://youtu.be/oCLRNAId6c8
+- https://youtu.be/oCLRNAId6c8
+
+## Runtime Fabric
 
 Sprinting with Anypoint Runtime Fabric
 https://youtu.be/CZ3wIuvmHeM
 
-Enterprise Architecture demystifying
+## Enterprise Architecture demystifying
 YOW! 2017 Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise? #YOW
-https://youtu.be/mS0AJLqmnvQ
+- https://youtu.be/mS0AJLqmnvQ
 
-CI/CD in Mule
+## CI/CD in Mule
 
 - https://github.com/mulesoft-consulting/cicd-hello-world
 - https://github.com/mulesoft-consulting/automated-api-promotion
 - https://github.com/mulesoft-consulting/ci-cd-powershell-script
 
-Servicemesh Demo
+## Servicemesh Demo
 - https://github.com/mulesoft-consulting/ServiceMeshDemo
 
 ## Anypoint Statistics
@@ -131,8 +138,14 @@ Api which retrieve statistics of deployed mule apps, scheduler and anypointMQ fo
 ## Kevin Jervis. Secure APIs using JWT
 - https://www.youtube.com/watch?v=W7XuJg9L6Sw&feature=youtu.be
 
-##Different Types of Performance Testing
+## Different Types of Performance Testing
 - https://blogs.mulesoft.com/dev/trends-dev/integration-habits-2020/?utm_source=linkedin&utm_medium=referral
+
+## Testing
+
+Munit Testing :
+
+- 
 
 Load testing:
 - Measures the system performance as the workload (either concurrent users or transactions) increases.
