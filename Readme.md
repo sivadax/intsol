@@ -191,3 +191,8 @@ occurring that could cripple and application in production.
 - https://docs.nginx.com/nginx/deployment-guides/load-balance-third-party/apache-tomcat/
 - https://www.whishworks.com/blog/mulesoft/how-to-set-up-a-load-balancer-for-on-premise-mule-servers
 
+## Fine Tuning Mule Apps
+
+- https://support.mulesoft.com/s/article/How-to-obtain-as-much-information-as-possible-from-unresponsive-Mule-server
+- https://support.mulesoft.com/s/article/How-to-gather-heap-dump-on-JVM-out-of-memory-error
+- https://support.mulesoft.com/s/article/How-to-change-JVM-heap-size-for-on-premise-Mule-standalone-runtime
