@@ -195,4 +195,23 @@ occurring that could cripple and application in production.
 
 - https://support.mulesoft.com/s/article/How-to-obtain-as-much-information-as-possible-from-unresponsive-Mule-server
 - https://support.mulesoft.com/s/article/How-to-gather-heap-dump-on-JVM-out-of-memory-error
-- https://support.mulesoft.com/s/article/How-to-change-JVM-heap-size-for-on-premise-Mule-standalone-runtime
+- https://support.mulesoft.com/s/article/How-to-change-JVM-heap-size-for-on-premise-Mule-standalone-runtime
+
+- https://dzone.com/articles/design-best-practices-for-real-life-mulesoft-apis
+- https://www.3scale.net/2015/04/how-to-load-test-and-tune-performance-on-your-api-part-i/
+
+## Java Garbage Collection
+- https://stackify.com/what-is-java-garbage-collection/
+
+CMS - Concurrent Mark Sweep " -XX:+UseConcMarkSweepGC. "
+- https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/cms.html
+- https://plumbr.io/handbook/garbage-collection-algorithms-implementations/concurrent-mark-and-sweep
+
+## Security
+
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
+
+
+
+
+
