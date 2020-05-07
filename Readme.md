@@ -119,31 +119,38 @@ Api which retrieve statistics of deployed mule apps, scheduler and anypointMQ fo
 - https://help.mulesoft.com/s/article/FAQ-on-Performance-Issue
 - https://docs.mulesoft.com/runtime-fabric/1.4/runtime-fabric-limitations
 
-About Anypoint Data Gateway
-https://docs.mulesoft.com/data-gateway/
+## About Anypoint Data Gateway
+- https://docs.mulesoft.com/data-gateway/
 
-Different Instance Types
-https://aws.amazon.com/ec2/instance-types/
+## Different AWS EC2 Instance Types
+- https://aws.amazon.com/ec2/instance-types/
 
-Tool used to create mule documentation
-https://docs.antora.org/antora/2.2/run-antora/#local-site-preview
+## Tool used to create mule documentation
+- https://docs.antora.org/antora/2.2/run-antora/#local-site-preview
 
-Kevin Jervis. Secure APIs using JWT
-https://www.youtube.com/watch?v=W7XuJg9L6Sw&feature=youtu.be
+## Kevin Jervis. Secure APIs using JWT
+- https://www.youtube.com/watch?v=W7XuJg9L6Sw&feature=youtu.be
 
-Different Types of Performance Testing
-https://blogs.mulesoft.com/dev/trends-dev/integration-habits-2020/?utm_source=linkedin&utm_medium=referral
+##Different Types of Performance Testing
+- https://blogs.mulesoft.com/dev/trends-dev/integration-habits-2020/?utm_source=linkedin&utm_medium=referral
 
-Load testing: Measures the system performance as the workload (either concurrent users or transactions) increases.
-Helps you understand the application response time as staying power of an application as loads increase.
-Stress testing: Measures the system performance when the number of users or transactions are well beyond normal working parameters.
-Helps you understand what the breaking point of your application is. How many users or transactions does it take to cause your
+Load testing:
+- Measures the system performance as the workload (either concurrent users or transactions) increases.
+- Helps you understand the application response time as staying power of an application as loads increase.
+
+Stress testing: 
+- Measures the system performance when the number of users or transactions are well beyond normal working parameters.
+- Helps you understand what the breaking point of your application is. How many users or transactions does it take to cause your
 application to fail?
-Spike testing: A form of stress testing that measures system performance when the workload suddenly increases quickly.
-Helps you understand how your applications will perform when there is a sudden surge in activity from a user or transaction volume
+
+Spike testing: 
+- A form of stress testing that measures system performance when the workload suddenly increases quickly.
+- Helps you understand how your applications will perform when there is a sudden surge in activity from a user or transaction volume
 perspective.
-Endurance (soak) testing: Measures the system performance, at a normal workload, over an extended amount of time.
-Helps you ensure that the underlying systems of your application are working properly and you don’t have things like memory leaks
+
+Endurance (soak) testing: 
+- Measures the system performance, at a normal workload, over an extended amount of time.
+- Helps you ensure that the underlying systems of your application are working properly and you don’t have things like memory leaks
 occurring that could cripple and application in production.
 
 ## ArchiMate Webinar: An overview of the ArchiMate 3 Modelling Language
