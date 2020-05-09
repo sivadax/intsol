@@ -37,3 +37,30 @@ mvn org.mule.extensions:mule-extensions-archetype-maven-plugin:1.2.0:generate
 ```
 -Djavax.net.debug=ssl
 ```
+
+## ServiceMesh Installation on Kubes
+
+```
+kubectl get svc
+kubectl  get pods -n istio-system
+asmctl adapter help
+asmctl adapter sizes
+asmctl adapter create --name=nto-payment-adapter --clientId=xxxxyyyzzzzz --clientSecret=ffxxsszzyy --size=small --namespace=nto-payment --replicas=1
+configure template.yaml and add configuration details.
+	- environmentId
+	-assetId
+	instanceLabel
+	apiInstance
+	apiSpec
+secretkyRef
+	name
+	key
+
+---
+configure api binding
+ 
+
+appy config
+kubectl apply -f nto-payment-api-creation.yaml
+
+```
