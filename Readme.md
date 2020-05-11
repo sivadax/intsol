@@ -211,6 +211,11 @@ CMS - Concurrent Mark Sweep " -XX:+UseConcMarkSweepGC. "
 
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
 
+## CORS in HTTP Listner configuration
+
+Configuring cross origin resource sharing in mule 4
+
+- https://dzone.com/articles/enable-cors-into-mule-4-at-application-level
 
 
 
