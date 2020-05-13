@@ -143,13 +143,23 @@ Api which retrieve statistics of deployed mule apps, scheduler and anypointMQ fo
 
 ## Testing
 
-| Testing   |
-|-----------|
-|   White Box 	|   Black Box 	| Tools |
-|---	|---	|
-|   Unit Testing 	|   NA	 | Munit |
+Testing                       |
+=======
 
-- 
+**WhiteBox**
+- Unit Testing	
+  - tools : Munit
+
+**Blackbox**
+- Integration Testing         : Postman, SOAPUI, ARC
+- Functional Testing          : selenium, cuccumber, mockito, BAT CLI
+- Security Testing            : Pentests ( Kali Linux , https://www.metasploit.com/ )
+- Performance Testing         : JMeter, Blazemeter, HP Load Runner
+- Non Functional Testing      : AppDynamics , NewRelic, Nagios
+- Load Testing                : JMeter, Blazemeter, HP Load Runner
+- Regression Testing          : 
+- System Testing              : 
+- Monkey Testing              : SimianArmy
 
 Load testing:
 - Measures the system performance as the workload (either concurrent users or transactions) increases.
