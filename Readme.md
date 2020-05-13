@@ -143,7 +143,11 @@ Api which retrieve statistics of deployed mule apps, scheduler and anypointMQ fo
 
 ## Testing
 
-Munit Testing :
+| Testing   |
+|-----------|
+|   White Box 	|   Black Box 	| Tools |
+|---	|---	|
+|   Unit Testing 	|   NA	 | Munit |
 
 - 
 
@@ -217,6 +221,8 @@ Configuring cross origin resource sharing in mule 4
 
 - https://dzone.com/articles/enable-cors-into-mule-4-at-application-level
 
+## Static IP FAQ
 
+- https://help.mulesoft.com/s/article/CloudHub-Static-IP-Frequently-Asked-Questions
 
 
