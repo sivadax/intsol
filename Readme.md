@@ -1,3 +1,6 @@
+## Fault Tolerance in Application Networks
+- https://blogs.mulesoft.com/dev/api-dev/application-network-fault-tolerance/
+
 ## Anypoint Platform API
 
 - https://blogs.mulesoft.com/dev/api-dev/postman-setup-with-anypoint-platform-apis/
