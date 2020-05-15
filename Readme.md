@@ -1,3 +1,6 @@
+## Circuit Breaker in Mule 4 with API Policy
+- https://github.com/mulesoft-catalyst/circuit-breaker-mule-4
+
 ## Fault Tolerance in Application Networks
 - https://blogs.mulesoft.com/dev/api-dev/application-network-fault-tolerance/
 
