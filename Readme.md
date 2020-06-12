@@ -20,6 +20,11 @@ Context, Containers, Components and Code
 - https://c4model.com/
 - https://github.com/tobiashochguertel/c4-draw.io
 
+## BPNM 2.0
+
+- https://www.omg.org/cgi-bin/doc?dtc/10-06-02
+
+
 
 ## Circuit Breaker in Mule 4 with API Policy
 - https://github.com/mulesoft-catalyst/circuit-breaker-mule-4
