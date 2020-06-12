@@ -24,7 +24,12 @@ Context, Containers, Components and Code
 
 - https://www.omg.org/cgi-bin/doc?dtc/10-06-02
 
+## Disable Console in production
 
+Comment it out when you are satisfied in dev and happy!
+
+- https://docs.mulesoft.com/apikit/3.x/apikit-console-expose-deprecate-task
+- https://help.mulesoft.com/s/article/Disabling-the-APIKit-Console
 
 ## Circuit Breaker in Mule 4 with API Policy
 - https://github.com/mulesoft-catalyst/circuit-breaker-mule-4
