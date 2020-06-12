@@ -1,3 +1,26 @@
+
+## 4+1 View
+- https://www.youtube.com/watch?v=yp2-_YbCuyM&list=PLKY5eEvz9PTh9xMPMDlouYEoRCTrfbj2I
+-  https://drawio-app.com/uml-diagrams/
+
+## Archimate
+
+- https://www.visual-paradigm.com/guide/archimate/full-archimate-viewpoints-guide/#application-usage-viewpoint
+
+## FMC
+
+Fundamental Modeling Concepts
+
+- http://www.fmc-modeling.org/notation_reference
+- https://gist.github.com/drozzy/1ce8fb9e2245519ceafe3c6c21867265
+
+## C4 Model
+Context, Containers, Components and Code
+
+- https://c4model.com/
+- https://github.com/tobiashochguertel/c4-draw.io
+
+
 ## Circuit Breaker in Mule 4 with API Policy
 - https://github.com/mulesoft-catalyst/circuit-breaker-mule-4
 
