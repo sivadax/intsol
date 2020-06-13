@@ -31,6 +31,12 @@ Comment it out when you are satisfied in dev and happy!
 - https://docs.mulesoft.com/apikit/3.x/apikit-console-expose-deprecate-task
 - https://help.mulesoft.com/s/article/Disabling-the-APIKit-Console
 
+## Class Loader Isolation in Mule 4
+
+- https://docs.mulesoft.com/mule-runtime/4.3/about-classloading-isolation#class-loading-isolation-mechanism
+- https://docs.mulesoft.com/mule-runtime/4.3/how-to-export-resources
+- https://docs.mulesoft.com/mule-sdk/1.1/isolation
+
 ## Circuit Breaker in Mule 4 with API Policy
 - https://github.com/mulesoft-catalyst/circuit-breaker-mule-4
 
