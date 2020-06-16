@@ -64,3 +64,11 @@ appy config
 kubectl apply -f nto-payment-api-creation.yaml
 
 ```
+
+curl -X POST \
+  https://anypoint.mulesoft.com/accounts/login/receive-id \
+  -H 'Content-Type: application/json' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  -d '{
+    "SAMLResponse": "<SAML_RESPONSE>"
+}'
