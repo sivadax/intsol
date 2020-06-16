@@ -65,6 +65,8 @@ kubectl apply -f nto-payment-api-creation.yaml
 
 ```
 
+## Anypoint Token in case of SAML
+```
 curl -X POST \
   https://anypoint.mulesoft.com/accounts/login/receive-id \
   -H 'Content-Type: application/json' \
@@ -72,3 +74,12 @@ curl -X POST \
   -d '{
     "SAMLResponse": "<SAML_RESPONSE>"
 }'
+```
+Anypoint CLI: A user can access a platform API by supplying the -bearer option to the anypoint-cli command. See Anypoint CLI for more information.
+
+curl: A user can access a platform API by passing the bearer token when accessing an API endpoint as shown in the following:
+```
+curl -X GET \
+  https://anypoint.mulesoft.com/accounts/api/me \
+  -H 'Authorization: Bearer <BEARER_TOKEN>'
+```
