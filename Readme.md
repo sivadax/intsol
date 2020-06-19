@@ -281,3 +281,10 @@ Configuring cross origin resource sharing in mule 4
 - https://help.mulesoft.com/s/article/CloudHub-Static-IP-Frequently-Asked-Questions
 
 
+## Websockets
+
+- Introduction https://www.youtube.com/watch?v=8ARodQ4Wlf4
+- https://blogs.mulesoft.com/cloud-integration-connectors/websockets-connector/
+- Connector Reference https://docs.mulesoft.com/websockets-connector/1.0/
+- Example https://apisero.com/building-real-time-dashboards-using-mule-websockets-connector/
+
