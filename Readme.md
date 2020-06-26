@@ -259,12 +259,25 @@ occurring that could cripple and application in production.
 - https://dzone.com/articles/design-best-practices-for-real-life-mulesoft-apis
 - https://www.3scale.net/2015/04/how-to-load-test-and-tune-performance-on-your-api-part-i/
 
+Learning about the HTTP “Connection: keep-alive” header
+
+- https://blog.insightdatascience.com/learning-about-the-http-connection-keep-alive-header-7ebe0efa209d
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive
+
+
 ## Java Garbage Collection
 - https://stackify.com/what-is-java-garbage-collection/
 
 CMS - Concurrent Mark Sweep " -XX:+UseConcMarkSweepGC. "
+
 - https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/cms.html
 - https://plumbr.io/handbook/garbage-collection-algorithms-implementations/concurrent-mark-and-sweep
+
+## Cloudhub JVM Changes from Oracle JDK to AdoptOpenJDK
+
+- https://help.mulesoft.com/s/article/How-can-I-set-Mule-and-Java-system-properties-at-startup
+- https://help.mulesoft.com/s/question/0D52T00004mXTYQ/how-to-add-jvm-option-in-cloudhub
+- https://docs.mulesoft.com/release-notes/cloudhub/cloudhub-runtimes-release-notes#may-2-2019
 
 ## Security
 
