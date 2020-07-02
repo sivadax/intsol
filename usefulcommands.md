@@ -38,6 +38,15 @@ mvn org.mule.extensions:mule-extensions-archetype-maven-plugin:1.2.0:generate
 -Djavax.net.debug=ssl
 ```
 
+## Run two mule servers on same machine with two different nodes.
+```
+mule -M-Dhttp.port=8081
+```
+
+configure http.port in the application as placeholder.
+```
+${http.port}
+```
 ## ServiceMesh Installation on Kubes
 
 ```
