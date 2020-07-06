@@ -12,7 +12,7 @@
     paste these client id and secret in anypoint userid and client id
 5. Create a token in Okta got to API->Token->Create token
    (visible only once, copy and save somewhere)
-6. Authorisation header in anypoint platform add SSW 004GLhYi4JPG9Bv8MV26HSu3GxrPzfm7mqnkY7VwBJ
+6. Authorisation header in anypoint platform add SSW xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 7. Save ( This will enable identitymanagement with okta)
 8. Anypoint Platform -> Access Management -> Env -> Assign Identitymanager
 
@@ -23,8 +23,8 @@
 11. post https://njclabs.auth0.com/oauth/token in postman and below as body
 
 {
-  "client_id":"CLewN0b49dS8jbaOAEAtzrW5MBuIQMER",
-  "client_secret":"pztqNjW9THabKFJYhDl_g9SPCdIcnRx3HGQnwVXtaHQT5jLb95gytuKsfdD1RXmV",
+  "client_id":"xxxxxxxxx",
+  "client_secret":"xxxxxxxx",
   "audience":"https://njclabs.auth0.com/api/v2/",
   "grant_type":"client_credentials"
 
