@@ -311,3 +311,9 @@ Configuring cross origin resource sharing in mule 4
 - Connector Reference https://docs.mulesoft.com/websockets-connector/1.0/
 - Example https://apisero.com/building-real-time-dashboards-using-mule-websockets-connector/
 
+## Encrypting Secure properties with plugins
+
+- https://www.youtube.com/watch?v=lE9zzzMpjvI
+- http://anypoint-enterprise-security-update-site.s3.amazonaws.com/1.6.5
+
+
