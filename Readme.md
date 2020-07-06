@@ -24,6 +24,11 @@ Context, Containers, Components and Code
 
 - https://www.omg.org/cgi-bin/doc?dtc/10-06-02
 
+## Secrets Manager
+Build HTTPS API Proxies
+
+- https://docs.mulesoft.com/api-manager/2.x/building-https-proxy
+
 ## Disable Console in production
 
 Comment it out when you are satisfied in dev and happy!
