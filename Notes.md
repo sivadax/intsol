@@ -1,5 +1,10 @@
 ## Module 1 : 
 
+*Enterise Architecture*
+
+- Tactical ( Solutions )
+- Strategy ( Application Network with API Led Connectivity)
+
 *Requirements*
 
   - Functional
@@ -51,7 +56,7 @@ Anypoint Platform
 -	Dataweave Transformations
 -	Flow Controls ( Routing and Scopes )
 -	Error handlers
-- Transactions ( on error continue  - partial commit, on error propagate rollback)
+- 	Transactions ( on error continue  - partial commit, on error propagate rollback)
 -	Class loading isolation ( mule 3 vs mule 4 )
 
 ## Module 4
@@ -67,13 +72,17 @@ Anypoint Platform
 
 -	Reactive Systems
 -	Reactive Programming
--	Types of Thread Pools
-	  UBER (4.3)
-	  CPU_LITE (4.0 – 4.2)
-    CPU_INTENSIVE
-    IO_BLOCKING
-    GRIZZLY_SHARED
-    GRIZZLY_DEDICATED
+
+Types of Thread Pools
+
+UBER (4.3 onwards )
+
+CPU_LITE (4.0 – 4.2)
+CPU_INTENSIVE
+IO_BLOCKING
+GRIZZLY_SHARED
+GRIZZLY_DEDICATED
+
 -	Streaming three types
     Repeatable stream
       File based buffered
