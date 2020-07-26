@@ -92,3 +92,12 @@ curl -X GET \
   https://anypoint.mulesoft.com/accounts/api/me \
   -H 'Authorization: Bearer <BEARER_TOKEN>'
 ```
+
+## Autodiscovery issue
+
+add these in runtime manager properties
+
+```
+anypoint.platform.client_id=XXXXXXXX
+anypoint.platform.client_secret=XXXXXXXX
+```
