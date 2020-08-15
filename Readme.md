@@ -317,3 +317,5 @@ Configuring cross origin resource sharing in mule 4
 - http://anypoint-enterprise-security-update-site.s3.amazonaws.com/1.6.5
 
 
+## Event Driven Architecture ( Intro by Martin Flower )
+- https://www.youtube.com/watch?v=STKCRSUsyP0
