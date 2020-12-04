@@ -319,3 +319,8 @@ Configuring cross origin resource sharing in mule 4
 
 ## Event Driven Architecture ( Intro by Martin Flower )
 - https://www.youtube.com/watch?v=STKCRSUsyP0
+
+## Shared Subscription in Topics
+- https://www.hivemq.com/blog/mqtt5-essentials-part7-shared-subscriptions/#:~:text=In%20a%20shared%20subscription%2C%20all,is%20distributed%20across%20all%20subscribers.
+
+![alt text](https://www.hivemq.com/img/blog/shared-subscriptions.gif)
