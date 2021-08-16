@@ -36,6 +36,8 @@ mvn org.mule.extensions:mule-extensions-archetype-maven-plugin:1.2.0:generate
 
 ```
 -Djavax.net.debug=ssl
+-Djavax.net.debug=ssl:handshake.
+
 ```
 
 ## Run two mule servers on same machine with two different nodes.
